@@ -1,0 +1,48 @@
+
+.boxed {
+    border:solid 2px rgb(85, 124, 207);
+    padding: 10px;
+    color: rgb(85, 124, 207);
+    background-color: rgba(85, 124, 207, 0.336);
+}
+
+.listitems {
+    padding-top: 15px;
+    font-size: 18px;
+
+}
+
+.sublist {
+    color: rgba(0, 0, 0, 0.301);
+    font-size: 15px;
+}
+
+.anchor {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: lightgray;
+    border: solid 1px gray;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.story {
+    font-size: 18px;
+}
+
+.bold {
+    text-decoration: none;
+    pointer-events: none;
+    font-weight: bold;
+}
+
+.pic {
+    float:left;
+    padding-right: 15px;
+}
+
+.words {
+    font-size: 18px;
+}
+
